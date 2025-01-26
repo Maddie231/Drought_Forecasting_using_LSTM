@@ -10,6 +10,7 @@ This repository contains an implementation of Uni-variate and Multi-variate Long
 ## Features  
 - Handles sequential data efficiently.  
 - Learns temporal dependencies.  
-- Predicts time series values with high accuracy.  
+- Predicts time series values with high accuracy.
+- Scores the intensity of drought in the forecast
 
 
